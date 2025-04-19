@@ -1,5 +1,5 @@
 # 💫About Me :
-Good morning, I'm Nhi. I'm a "sun-oriented" person.
+Good morning, I'm Nhi.
 
 I want to be a Web developer. I'm designing frontend with HTML, CSS, JavaScript, ReatJS, Tailwind CSS and Bootstrap, and trying to learn backend.
 
