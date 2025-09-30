@@ -27,12 +27,12 @@ I love to be creative and find new things, especially in the field of informatio
 
 ## 📌 Dự án ghim
 
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-backend&theme=tokyonight)](https://github.com/vouyennhi/Distenda-backend.git)
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-frontend&theme=tokyonight)](https://github.com/vouyennhi/Distenda-frontend.git)
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-frontendadmin&theme=tokyonight)](https://github.com/vouyennhi/Distenda-frontendadmin.git)
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=SEO&theme=tokyonight)](https://github.com/vouyennhi/SEO.git)
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=APP-TIU&theme=tokyonight)](https://github.com/vouyennhi/APP-TIU.git)
-[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=APP-TIU-backend&theme=tokyonight)](https://github.com/vouyennhi/APP-TIU-backend.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-backend&theme=default&description=false)](https://github.com/vouyennhi/Distenda-backend.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-frontend&theme=default&description=false)](https://github.com/vouyennhi/Distenda-frontend.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=Distenda-frontendadmin&theme=default&description=false)](https://github.com/vouyennhi/Distenda-frontendadmin.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=SEO&theme=default&description=false)](https://github.com/vouyennhi/SEO.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=APP-TIU&theme=default&description=false)](https://github.com/vouyennhi/APP-TIU.git)
+[![Tests](https://github-readme-stats.vercel.app/api/pin/?username=vouyennhi&repo=APP-TIU-backend&theme=default&description=false)](https://github.com/vouyennhi/APP-TIU-backend.git)
 
 
 
