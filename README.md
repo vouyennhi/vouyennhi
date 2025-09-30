@@ -24,3 +24,7 @@ I love to be creative and find new things, especially in the field of informatio
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vouyennhi&icon=0&color=2)](https://visitcount.itsvg.in)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vo-uyen-nhi&repo=portfolio&theme=tokyonight)](https://github.com/vo-uyen-nhi/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vo-uyen-nhi&repo=data-viz&theme=tokyonight)](https://github.com/vo-uyen-nhi/data-viz)
+
