@@ -1,8 +1,6 @@
 # 💫About Me :
 Good morning,
-
-I want to be a Web developer. I'm designing frontend with HTML, CSS, JavaScript, ReatJS, Tailwind CSS and Bootstrap, and trying to learn backend.
-
+I want to become a web developer. I use languages, frameworks to build Frontend and Backend such as HTML, CSS, JavaScript, PHP, Python, Java (Servlet), ReatJS, Tailwind CSS, Bootstrap, NodeJS (ExpressJS), database management such as SQL, NoSQL (MongoDB). In addition, I also have SEO skills such as Wordpress, GA4,.. and can design interfaces with Figma.
 I love to be creative and find new things, especially in the field of information technology. For me, daily effort is the key to success.
 
 ## 🌐Socials
