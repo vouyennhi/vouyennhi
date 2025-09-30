@@ -24,6 +24,3 @@ I love to be creative and find new things, especially in the field of informatio
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vouyennhi&icon=0&color=2)](https://visitcount.itsvg.in)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=vouyennhi&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>![](https://github-readme-streak-stats.herokuapp.com/?user=vouyennhi&theme=gruvbox&hide_border=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=vouyennhi&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)### ✍️Random Dev Quote![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)---[![](https://visitcount.itsvg.in/api?id=vouyennhi&icon=0&color=2)](https://visitcount.itsvg.in)
-
